@@ -20,3 +20,7 @@
 ## Testing Data
 * Data test will test if 5 values of Account number will be displayed.
 
+* For CD/CD, it is connected to Azure Devops and generate a pipeline and configured the pipeline as necessary.
+YAML File is in the repo.
+
+[![Build status](https://dev.azure.com/arnoldchanliongco/arnoldchanlii/_apis/build/status/arnoldchanlii-ASP.NET%20Core-CI)](https://dev.azure.com/arnoldchanliongco/arnoldchanlii/_build/latest?definitionId=1)
