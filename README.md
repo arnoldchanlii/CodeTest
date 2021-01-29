@@ -15,7 +15,7 @@
 3. Copy and paste the URL that will pop-up in the browser.
 4. Set the HTTP verb to Get and append "api/Accounts" in the URL to see user accounts.
 6. To get each accounts, append "api/Accounts/1" for first account number up to 5.
-7. Press Send.
+7. Press Send to see JSON output in the body.
 
 ## Testing Data
 * Data test will test if 5 values of Account number will be displayed.
