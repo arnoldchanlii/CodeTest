@@ -40,7 +40,7 @@ namespace WebApplication1.Controllers
             {   new Account { PaymentList = new List<Payment>(){
                 new Payment { Id = 1, AccountId =1, Amount=2500.60, Date=DateTime.Now.AddDays(-24) },
                 new Payment { Id = 2, AccountId =1, Amount=9450.65, Date=DateTime.Now.AddDays(-16) },
-                new Payment { Id = 3, AccountId =1, Amount=21920.59, Date=DateTime.Now.AddDays(-12) },
+                new Payment { Id = 3, AccountId =1, Amount=2112.59, Date=DateTime.Now.AddDays(-12) },
                 new Payment { Id = 4, AccountId =1, Amount=12812.50, Date=DateTime.Now.AddDays(-8) } },
                 Id = 1, AccountNumber=1000001, Status="Closed", ReasonForClosing="No remaining balance", RemainingBalance=0},
                 new Account { PaymentList = new List<Payment>(){
